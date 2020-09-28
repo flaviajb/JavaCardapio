@@ -1,6 +1,11 @@
 #java-menu
+English version:
+This repository aims to delivery a class activity from a Software Engeneer graduate course.
+The code has been constructed in partionship with a collegue, Matheus Lara (https://github.com/Matheus-Lara).
 
-This repository aims to meet the requirements of a project for a software engineering undergraduate course
+Versão em Português:
+Este repositório foi criado a partir de uma atividade da disciplina de Desenvolvimento Java, do curso de Engenharia de Software da Universidade Positivo.
+O código foi construído em parceria com o colega Matheus Lara (https://github.com/Matheus-Lara).
 
 Directory Structure:
 
